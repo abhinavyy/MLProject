@@ -72,5 +72,3 @@ The application takes inputs such as gender, ethnicity, parental education level
 - **Performance Optimization**: Improving the prediction speed and scalability for large datasets.
 
 ---
-
-This description provides an overview of what the project does, how it is structured, and how users can interact with it. You can further expand on the machine learning model used or the dataset if needed.
